@@ -595,6 +595,7 @@ background-color: #4bbb7d;
   align-items: center;
   justify-content: center;
   z-index: -1;
+  
   }
   .back1{
     background-color: rgb(239, 216, 253);
@@ -609,3 +610,33 @@ background-color: #4bbb7d;
     background-color: rgb(245, 249, 230);
   }
   
+  @media (max-width: 400px) {
+
+.is-for-mobail {display: none;}
+
+}
+nav{display:none;}
+
+
+@media (max-width: 400px) {
+
+  .footer {display: none;}
+  
+  }
+
+  @media (max-width: 400px) {
+
+    .first-h1 {font-size: 15px;}
+    
+    }
+    @media (max-width: 400px) {
+
+      .nav__links{  display:none;}
+      
+      }
+      @media (max-width: 400px) {
+
+       .hed{
+        font-size :23px;
+       }
+        }
