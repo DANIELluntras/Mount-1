@@ -578,3 +578,34 @@ background-color: #4bbb7d;
   padding:10px;
 background-color: #4bbb7d; 
 }
+.practically{
+  border:solid 1px black;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  padding: 60px;
+  height: 80%;
+  width: 80%;
+  
+  }
+  .container-slide{
+    display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  z-index: -1;
+  }
+  .back1{
+    background-color: rgb(239, 216, 253);
+  }
+  .back2{
+    background-color: rgb(252, 233, 216);
+  }
+  .back3{
+    background-color: rgb(208, 209, 246);
+  }
+  .back4{
+    background-color: rgb(245, 249, 230);
+  }
+  
