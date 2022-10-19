@@ -569,16 +569,17 @@ font-size: 30px;
 
 }
 .prev{
-  border-radius: 100%;
+  border-radius: 1px;
   padding:10px;
 background-color: #4bbb7d;
 }
 .next{
-  border-radius: 100%;
+  border-radius: 1px;
   padding:10px;
 background-color: #4bbb7d; 
 }
 .practically{
+  border-radius: 24px;
   border:solid 1px black;
   display: flex;
   text-align: center;
